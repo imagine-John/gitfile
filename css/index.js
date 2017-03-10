@@ -1,0 +1,1 @@
+var abc="abc",test=function(t){return t+"def"},a=test(abc);document.write(a);

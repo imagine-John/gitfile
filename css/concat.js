@@ -1,0 +1,1 @@
+var abc="abc",test=function(t){return t+"def"},a=test(abc);document.write(a);var m="ghi",k=function(t){return t+"jkl"},y=k(m);document.write(y);
